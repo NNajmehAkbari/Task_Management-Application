@@ -1,9 +1,3 @@
-"""
-COMP.CS.100 Ohjelmointi 1 / Programming 1
-StudentId: 151630594
-Name:      Najmeh Akbari
-Email:     najmeh.akbari@tuni.fi
-"""
 
 """
 The given code is a Task Manager application implemented.
